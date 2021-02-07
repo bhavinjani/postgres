@@ -1,0 +1,5 @@
+# min_to_max extension
+comment = 'functions for computing aggrigate with min_to_max on bigint values'
+default_version = '1.0.0'
+module_pathname = '$libdir/m2m'
+relocatable = true

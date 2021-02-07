@@ -1,0 +1,13 @@
+-- Prerequisite
+-- Windows 64 Bit platform
+-- PostgreSQL -12 or higher
+Note:= haven't tested on PostgreSQL version (9.6,10,11), not recommended to use on Production until fully tested    
+Steps
+1. Copy the folder or the file inside the "share" folder on the installation path for the PostgreSQL server
+	eg. "<Installation Location>\PostgreSQL\12\share"
+2. Copy the dll from "lib" file inside the "lib"
+	"<Installation Location>\PostgreSQL\12\lib"
+3. Create the extention "create extention min_to_max;"
+4. Run the test
+
+
